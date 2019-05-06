@@ -17,8 +17,8 @@ This application seems to run fine.
 
 The @SpringBootTest tests for the DefaultController also run fine.
 
-What's not working are the tests for the WebController (WebControllerTests). 
-When the test user is authorized, I get a 404 error instead of the expected 200 status.
+What's not working is a test for the WebController (WebControllerTests#helloAuthorized()). 
+When the test user is authenticated/authorized, I get a 404 error instead of the expected 200 status.
 
 ## open questions
 
