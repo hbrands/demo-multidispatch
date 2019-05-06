@@ -25,3 +25,5 @@ When the test user is authenticated/authorized, I get a 404 error instead of the
 - Am I doing something wrong or am I missing something?
 
 - Is @SpringBootTest supposed to work with multiple dispatcher servlets? If yes, how?
+
+- are there example projects or documentation pointers regarding multiple dispatcher servlets?
